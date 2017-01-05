@@ -1,2 +1,2 @@
-MainPackage=C:\Users\Naylo\OneDrive\Documents\Visual Studio 2015\Projects\LeftRightAudioWindows\LeftRightAudioTest\LeftRightAudioTest\bin\x86\Debug\LeftRightAudioTest_1.0.0.0_x86_Debug.appx
-SymbolPackage=C:\Users\Naylo\OneDrive\Documents\Visual Studio 2015\Projects\LeftRightAudioWindows\LeftRightAudioTest\LeftRightAudioTest\AppPackages\LeftRightAudioTest_1.0.0.0_Debug_Test\LeftRightAudioTest_1.0.0.0_x86_Debug.appxsym
+MainPackage=C:\Users\Naylo\OneDrive\Documents\Visual Studio 2015\Projects\LeftRightAudioWindows\LeftRightAudioTest\LeftRightAudioTest\bin\x86\Release\LeftRightAudioTest_1.0.1.0_x86.appx
+SymbolPackage=C:\Users\Naylo\OneDrive\Documents\Visual Studio 2015\Projects\LeftRightAudioWindows\LeftRightAudioTest\LeftRightAudioTest\AppPackages\LeftRightAudioTest_1.0.1.0_Test\LeftRightAudioTest_1.0.1.0_x86.appxsym
